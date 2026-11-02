@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,13501,r=>{"use strict";r.s(["tablistTarget",0,function(r,e,t){if(t<=0)return null;switch(r){case"ArrowDown":case"ArrowRight":return e>=t-1?0:e+1;case"ArrowUp":case"ArrowLeft":return e<=0?t-1:e-1;case"Home":return 0;case"End":return t-1;default:return null}}])}]);

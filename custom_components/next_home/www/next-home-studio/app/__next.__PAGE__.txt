@@ -1,0 +1,15 @@
+1:"$Sreact.fragment"
+2:I[20403,["/local/next-home-studio/app/_next/static/chunks/28jodh4-0wlbm.js","/local/next-home-studio/app/_next/static/chunks/1iyslgjzpqdfs.js","/local/next-home-studio/app/_next/static/chunks/18df7nk812r0l.js","/local/next-home-studio/app/_next/static/chunks/1w46-a077d0vs.js","/local/next-home-studio/app/_next/static/chunks/3mu0w5pxx5ukp.js","/local/next-home-studio/app/_next/static/chunks/2f6lkzu0cm3ui.js","/local/next-home-studio/app/_next/static/chunks/1v-zljjmeswkk.js","/local/next-home-studio/app/_next/static/chunks/02j3fcu2lf_pv.js","/local/next-home-studio/app/_next/static/chunks/0own-8r3zni5w.js"],"HomeDashboard"]
+3:I[19468,["/local/next-home-studio/app/_next/static/chunks/28jodh4-0wlbm.js","/local/next-home-studio/app/_next/static/chunks/1iyslgjzpqdfs.js","/local/next-home-studio/app/_next/static/chunks/18df7nk812r0l.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[19468,["/local/next-home-studio/app/_next/static/chunks/28jodh4-0wlbm.js","/local/next-home-studio/app/_next/static/chunks/1iyslgjzpqdfs.js","/local/next-home-studio/app/_next/static/chunks/18df7nk812r0l.js"],"ViewportBoundary"]
+9:I[19468,["/local/next-home-studio/app/_next/static/chunks/28jodh4-0wlbm.js","/local/next-home-studio/app/_next/static/chunks/1iyslgjzpqdfs.js","/local/next-home-studio/app/_next/static/chunks/18df7nk812r0l.js"],"MetadataBoundary"]
+7:X
+0:{"buildId":"wj8sAQWcK1zwpVFpIexSP","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/local/next-home-studio/app/_next/static/chunks/1w46-a077d0vs.js","async":true}],["$","script","script-1",{"src":"/local/next-home-studio/app/_next/static/chunks/3mu0w5pxx5ukp.js","async":true}],["$","script","script-2",{"src":"/local/next-home-studio/app/_next/static/chunks/2f6lkzu0cm3ui.js","async":true}],["$","script","script-3",{"src":"/local/next-home-studio/app/_next/static/chunks/1v-zljjmeswkk.js","async":true}],["$","script","script-4",{"src":"/local/next-home-studio/app/_next/static/chunks/02j3fcu2lf_pv.js","async":true}],["$","script","script-5",{"src":"/local/next-home-studio/app/_next/static/chunks/0own-8r3zni5w.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Next Home · 我的家"}],["$","meta","1",{"name":"description","content":"Home Assistant 3D 家庭中控"}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@b","rootVaryParams":null,"needsRuntimeRequest":"$@c"}
+5:null
+c:true
+7:300
+7:C
+b:0
+a:"$undefined"
+6:"$undefined"

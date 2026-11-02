@@ -1,0 +1,3 @@
+:HL["/local/next-home-studio/app/_next/static/chunks/0n-sa2ch9rf6y.css","style"]
+:HL["/local/next-home-studio/app/_next/static/chunks/04me069au64tl.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"wj8sAQWcK1zwpVFpIexSP"}
