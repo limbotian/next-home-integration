@@ -1,0 +1,13 @@
+{
+  "options": {
+    "step": {
+      "init": {
+        "title": "更新源",
+        "data": {
+          "manifest_url": "发布清单地址",
+          "allow_insecure_source": "允许 http 源（仅内网调试）"
+        }
+      }
+    }
+  }
+}
